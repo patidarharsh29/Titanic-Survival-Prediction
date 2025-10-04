@@ -42,7 +42,7 @@ The model is trained on the famous Titanic dataset and deployed as an **interact
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/titanic-survival.git
+   git clone https://github.com/patidarharsh29/Titanic-Survival-Prediction.git
    cd titanic-survival
    ```
 
